@@ -82,7 +82,7 @@ const Login = () => {
                     newUser.name = res.user.displayName;
                     setUser(newUser);
                     setLoggedInUser(newUser);
-                    storeTokenAuth();
+                    // storeTokenAuth();
                     history.replace(from);
                     // console.log('sign in user', res.user.displayName)
 
