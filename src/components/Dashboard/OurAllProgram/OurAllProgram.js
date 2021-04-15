@@ -20,7 +20,7 @@ const OurAllProgram = () => {
                     <Sidebar></Sidebar>
                 </div>
                 <div className="col-md-10 mt-5">
-                        <h3>Order List</h3>
+                        <h3>Our All Program</h3>
                          <OurAllProgramList programs={programs}></OurAllProgramList>
                 </div>
             </div>
