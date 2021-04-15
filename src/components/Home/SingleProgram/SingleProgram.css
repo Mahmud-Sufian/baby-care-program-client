@@ -1,0 +1,9 @@
+.single-container a{
+    text-decoration: none;
+} 
+.single-container{
+    transition: 02s;
+}
+.single-container:hover{
+     transform: scale(1.1);
+}

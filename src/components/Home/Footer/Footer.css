@@ -1,0 +1,10 @@
+.footer-container{
+    background-color: #F9B7B7;
+    color: rgb(56, 32, 32);
+}
+.footer-container ul {
+    list-style-type: none;
+}
+.footer-container h5{
+    color: purple;
+}

@@ -1,0 +1,22 @@
+.make-profession{
+    z-index: 10;
+     position: relative;
+     /* height: 420px;  */
+ }
+ 
+ .make-profession::before{
+     content:  "";
+     display: block;
+     width: 100%;
+     height: 100%;
+     position: absolute;
+     background:  #F7A5A5;
+     opacity: .8;
+     top: 0;
+     z-index: -10;
+ }
+ 
+ .make-profession img{
+     height: 400px;
+     transform: translateY(-70px);
+ }
