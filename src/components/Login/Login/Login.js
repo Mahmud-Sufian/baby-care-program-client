@@ -116,14 +116,14 @@ const Login = () => {
     }
 
 
-    const storeTokenAuth = () => {
-        firebase.auth().currentUser.getIdToken(/* forceRefresh */ true)
-        .then(function(idToken) {
-            sessionStorage.setItem('token', idToken)
-          }).catch(function(error) {
-            // Handle error
-          });
-    }
+    // const storeTokenAuth = () => {
+    //     firebase.auth().currentUser.getIdToken(/* forceRefresh */ true)
+    //     .then(function(idToken) {
+    //         sessionStorage.setItem('token', idToken)
+    //       }).catch(function(error) {
+    //         // Handle error
+    //       });
+    // }
 
 
 
