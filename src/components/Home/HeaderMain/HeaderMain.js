@@ -14,7 +14,9 @@ const HeaderMain = () => {
                     </div>
                 </div>
                 <div className="col-md-6 offset-md-1">
-                    <img style={{height:'400px'}} src={baby1} alt=""/>
+                    <div>
+                    <img className="img-fluid" src={baby1} alt=""/>
+                    </div>
                 </div>
              </div>
         </section>
