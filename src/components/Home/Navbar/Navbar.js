@@ -11,7 +11,7 @@ const Navbar = () => {
            
            <div className="topnav leftSide row">
                 <div className="col-md-6">
-                    <h2 style={{color:'', marginLeft:'30px', fontWeight:'bold'}}>Baby Program</h2>
+                    <h2 style={{color:'salmon', marginLeft:'30px', fontWeight:'bold'}}>Baby Program</h2>
                 </div>
                 <div className="col-md-6 mainNav">
                 <Link className="active" to="/">Home</Link>
