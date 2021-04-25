@@ -1,9 +1,7 @@
 ### Site Name: Baby Program
 <br/> 
 
-### Live: https://baby-care-program.web.app/
-### Client Code: https://github.com/Porgramming-Hero-web-course/complete-website-client-Mahmud-Sufian 
-### Server Code: https://github.com/Porgramming-Hero-web-course/complete-website-server-Mahmud-Sufian 
+### Live: https://baby-care-program.web.app/ 
 
 ### Feature:
 -Grow Baby Knowledge Program
