@@ -27,7 +27,7 @@
 <br/>
 -Bootstrap
 <hr>
-i'm am Currently Learning with Programming hero.
+i am am Currently Learning with Programming hero.
 <hr>
 <br/>
 <br/>
