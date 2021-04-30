@@ -1,37 +1,27 @@
 ### Site Name: Baby Program
 <br/> 
 
-### Live: https://baby-care-program.web.app/ 
+[![baby program](https://i.ibb.co/d0W4Zv6/baby-1.png)](https://baby-care-program.web.app/)
+### Live:  
 
 ### Feature:
--Grow Baby Knowledge Program
-<br/>
--Client feedback
-<br/>
--Admin Control Panel
-<br/>
+- Grow Baby Knowledge Program 
+- Client feedback 
+- Admin Control Panel 
 <br/>
 
 ### Technology:
--React
-<br/>
--React Router
-<br/>
--MongoDB
-<br/>
--Node
-<br/>
--Firebase authentication
-<br/>
--Material ui
-<br/>
--Bootstrap
-<hr>
-i am am Currently Learning with Programming hero.
-<hr>
-<br/>
-<br/>
+- React 
+- React Router 
+- MongoDB 
+- Node 
+- Firebase authentication 
+- Material ui 
+- Bootstrap
+- 
+<hr> 
 <br/> 
+ 
 - ⚡ keep going.
 - 🌱 keep learning.
 - 💬 keep sharing.
